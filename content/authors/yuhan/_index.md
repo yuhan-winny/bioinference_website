@@ -21,7 +21,7 @@ bio: My research interests include AI in biomedicine.
 
 education:
   courses:
-    - course: PhD in artificial intelligence
+    - course: PhD in Artificial Intelligence
       institution: Kings College London
 
 # Social/Academic Networking
@@ -53,6 +53,6 @@ user_groups:
 
 My current research focuses on generating gene expression profiles across different states to model and trace cell evolution. More broadly, I am interested in integrating multi-omics data for virtual cell modelling, with the goal of tracking cellular dynamics, evaluating disease-related cell states, and enabling treatment design.
 
-My PhD at King’s College London focused on developing explainable deep learning methods for surgical instrument detection and disease classification using medical images. In 2023, I participated in the Turing Enrichment Scheme at the Alan Turing Institute, where I focused on research in explainable and multimodal AI.
+My PhD at King’s College London focused on developing explainable deep learning methods for reliable decision support based on medical imaging. In 2023, I participated in the Turing Enrichment Scheme at the Alan Turing Institute, where I focused on research in explainable and multimodal AI.
 
 My research interests concern the theoretical development of generative, explainable, and multimodal AI methods, with primary application in the biomedical domain.
