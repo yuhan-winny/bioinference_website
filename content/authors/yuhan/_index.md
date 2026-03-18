@@ -1,5 +1,5 @@
 # Display name
-title: Yuhan Wang
+title: Dr. Yuhan Wang
 
 # Full Name (for SEO)
 first_name: Yuhan 
@@ -17,7 +17,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI in medicine.
+bio: My research interests include AI in biomedicine.
 
 education:
   courses:
